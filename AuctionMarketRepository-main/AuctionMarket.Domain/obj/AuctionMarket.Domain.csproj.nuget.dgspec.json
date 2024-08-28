@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\EZE_PROJECTS\\AuctionMarketRepository\\AuctionMarket.Domain\\AuctionMarket.Domain.csproj": {}
+    "C:\\Users\\USER\\Downloads\\AuctionMarketRepository-main (1)\\AuctionMarket\\AuctionMarketRepository-main\\AuctionMarket.Domain\\AuctionMarket.Domain.csproj": {}
   },
   "projects": {
-    "C:\\EZE_PROJECTS\\AuctionMarketRepository\\AuctionMarket.Domain\\AuctionMarket.Domain.csproj": {
+    "C:\\Users\\USER\\Downloads\\AuctionMarketRepository-main (1)\\AuctionMarket\\AuctionMarketRepository-main\\AuctionMarket.Domain\\AuctionMarket.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\EZE_PROJECTS\\AuctionMarketRepository\\AuctionMarket.Domain\\AuctionMarket.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Downloads\\AuctionMarketRepository-main (1)\\AuctionMarket\\AuctionMarketRepository-main\\AuctionMarket.Domain\\AuctionMarket.Domain.csproj",
         "projectName": "AuctionMarket.Domain",
-        "projectPath": "C:\\EZE_PROJECTS\\AuctionMarketRepository\\AuctionMarket.Domain\\AuctionMarket.Domain.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\EZE_PROJECTS\\AuctionMarketRepository\\AuctionMarket.Domain\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Downloads\\AuctionMarketRepository-main (1)\\AuctionMarket\\AuctionMarketRepository-main\\AuctionMarket.Domain\\AuctionMarket.Domain.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Downloads\\AuctionMarketRepository-main (1)\\AuctionMarket\\AuctionMarketRepository-main\\AuctionMarket.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

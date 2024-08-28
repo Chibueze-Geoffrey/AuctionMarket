@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AuctionMarket.Application
-build_property.ProjectDir = C:\EZE_PROJECTS\AuctionMarketRepository\AuctionMarket.Application\
+build_property.ProjectDir = C:\Users\USER\Downloads\AuctionMarketRepository-main (1)\AuctionMarket\AuctionMarketRepository-main\AuctionMarket.Application\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

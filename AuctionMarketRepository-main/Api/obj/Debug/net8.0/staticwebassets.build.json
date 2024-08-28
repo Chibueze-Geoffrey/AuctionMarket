@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JKuTk1eURBMF5AWRv/ZQGe24Rn6p9OoATRIqnunh3aM=",
+  "Source": "AuctionMarket.Api",
+  "BasePath": "_content/AuctionMarket.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
