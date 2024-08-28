@@ -1,0 +1,17 @@
+C:\Users\HP\OneDrive\Desktop\AuctionMarketFolder\AuctionMarket.Application\bin\Debug\net8.0\AuctionMarket.Application.deps.json
+C:\Users\HP\OneDrive\Desktop\AuctionMarketFolder\AuctionMarket.Application\bin\Debug\net8.0\AuctionMarket.Application.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\AuctionMarketFolder\AuctionMarket.Application\bin\Debug\net8.0\AuctionMarket.Application.dll
+C:\Users\HP\OneDrive\Desktop\AuctionMarketFolder\AuctionMarket.Application\bin\Debug\net8.0\AuctionMarket.Application.pdb
+C:\Users\HP\OneDrive\Desktop\AuctionMarketFolder\AuctionMarket.Application\bin\Debug\net8.0\AuctionMarket.Domain.dll
+C:\Users\HP\OneDrive\Desktop\AuctionMarketFolder\AuctionMarket.Application\bin\Debug\net8.0\AuctionMarket.Domain.pdb
+C:\Users\HP\OneDrive\Desktop\AuctionMarketFolder\AuctionMarket.Application\obj\Debug\net8.0\AuctionMarket.Application.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\AuctionMarketFolder\AuctionMarket.Application\obj\Debug\net8.0\AuctionMarket.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\AuctionMarketFolder\AuctionMarket.Application\obj\Debug\net8.0\AuctionMarket.Application.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\AuctionMarketFolder\AuctionMarket.Application\obj\Debug\net8.0\AuctionMarket.Application.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\AuctionMarketFolder\AuctionMarket.Application\obj\Debug\net8.0\AuctionMarket.Application.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\AuctionMarketFolder\AuctionMarket.Application\obj\Debug\net8.0\AuctionM.A2ACE82F.Up2Date
+C:\Users\HP\OneDrive\Desktop\AuctionMarketFolder\AuctionMarket.Application\obj\Debug\net8.0\AuctionMarket.Application.dll
+C:\Users\HP\OneDrive\Desktop\AuctionMarketFolder\AuctionMarket.Application\obj\Debug\net8.0\refint\AuctionMarket.Application.dll
+C:\Users\HP\OneDrive\Desktop\AuctionMarketFolder\AuctionMarket.Application\obj\Debug\net8.0\AuctionMarket.Application.pdb
+C:\Users\HP\OneDrive\Desktop\AuctionMarketFolder\AuctionMarket.Application\obj\Debug\net8.0\AuctionMarket.Application.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\AuctionMarketFolder\AuctionMarket.Application\obj\Debug\net8.0\ref\AuctionMarket.Application.dll

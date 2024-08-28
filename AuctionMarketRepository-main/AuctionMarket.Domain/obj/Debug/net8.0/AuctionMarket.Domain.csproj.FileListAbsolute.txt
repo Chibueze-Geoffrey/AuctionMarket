@@ -1,0 +1,11 @@
+C:\Users\HP\OneDrive\Desktop\AuctionMarketFolder\AuctionMarket.Domain\bin\Debug\net8.0\AuctionMarket.Domain.deps.json
+C:\Users\HP\OneDrive\Desktop\AuctionMarketFolder\AuctionMarket.Domain\bin\Debug\net8.0\AuctionMarket.Domain.dll
+C:\Users\HP\OneDrive\Desktop\AuctionMarketFolder\AuctionMarket.Domain\bin\Debug\net8.0\AuctionMarket.Domain.pdb
+C:\Users\HP\OneDrive\Desktop\AuctionMarketFolder\AuctionMarket.Domain\obj\Debug\net8.0\AuctionMarket.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\AuctionMarketFolder\AuctionMarket.Domain\obj\Debug\net8.0\AuctionMarket.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\AuctionMarketFolder\AuctionMarket.Domain\obj\Debug\net8.0\AuctionMarket.Domain.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\AuctionMarketFolder\AuctionMarket.Domain\obj\Debug\net8.0\AuctionMarket.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\AuctionMarketFolder\AuctionMarket.Domain\obj\Debug\net8.0\AuctionMarket.Domain.dll
+C:\Users\HP\OneDrive\Desktop\AuctionMarketFolder\AuctionMarket.Domain\obj\Debug\net8.0\refint\AuctionMarket.Domain.dll
+C:\Users\HP\OneDrive\Desktop\AuctionMarketFolder\AuctionMarket.Domain\obj\Debug\net8.0\AuctionMarket.Domain.pdb
+C:\Users\HP\OneDrive\Desktop\AuctionMarketFolder\AuctionMarket.Domain\obj\Debug\net8.0\ref\AuctionMarket.Domain.dll
